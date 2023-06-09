@@ -48,7 +48,37 @@ export const PROJECTS = [
     imageAlt: 'project8',
     title: 'Proyect8',
     year: '2023'
-  }
+  },
+  {
+    imageSrc: './Assets/home-background1.jpg',
+    imageAlt: 'project9',
+    title: 'Proyect9',
+    year: '2023'
+  },
+  {
+    imageSrc: './Assets/home-background1.jpg',
+    imageAlt: 'project10',
+    title: 'Proyect10',
+    year: '2023'
+  },
+  {
+    imageSrc: './Assets/home-background1.jpg',
+    imageAlt: 'project11',
+    title: 'Proyect11',
+    year: '2023'
+  },
+  {
+    imageSrc: './Assets/home-background1.jpg',
+    imageAlt: 'project12',
+    title: 'Proyect12',
+    year: '2023'
+  },
+  {
+    imageSrc: './Assets/home-background1.jpg',
+    imageAlt: 'project13',
+    title: 'Proyect13',
+    year: '2023'
+  },
 ]
 
 export const EXPERIENCE = [
