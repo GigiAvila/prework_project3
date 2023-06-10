@@ -127,7 +127,7 @@ const renderProjects = (projects) => {
 };
 
 renderProjects();
-projectsWrp.innerHTML += renderProjects();
+// projectsWrp.innerHTML += renderProjects();
 
 const experienceTitle = document.createElement('h2');
 experienceTitle.className = 'experience-title';
@@ -183,7 +183,7 @@ const renderExperience = () => {
 
 };
 renderExperience();
-experienceCarousel.innerHTML += renderExperience();
+// experienceCarousel.innerHTML += renderExperience();
 
 
 
@@ -268,7 +268,7 @@ function handleMouseOver(element) {
     if (element === projectsWrp) {
       projectWrpInterval = setInterval(autoProjectWrpScroll, 30);
     } else if (element === experienceCarousel) {
-      experienceCarouselInterval = setInterval(autoExperienceCarouselScroll, 60);
+      experienceCarouselInterval = setInterval(autoExperienceCarouselScroll, 40);
     }
   }
 }
