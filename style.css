@@ -602,11 +602,18 @@ margin-left:1.5rem;
 
 .close {
   font-size: 2.5vw;
+  display: flex;
+  justify-content: end;
 
 }
 
-.closeButtonWrp{
+.close-button-container{
+  width: 100%;
+  height: 100%;
   position: absolute;
+  padding-right: 0.5vw;
+
+  
 }
 
 .modal-content {
