@@ -302,7 +302,7 @@ function createModal() {
   content.className = 'modal-content';
 
   closeButton.innerHTML = 'X'
-  content.innerHTML = '<p>¡Great! </br> I will contact us as soon as posible</p>';
+  content.innerHTML = '<p>¡Great! </br> I will get in contact as soon as possible</p>';
 
 
   contactSection.appendChild(modal);
