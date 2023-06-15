@@ -612,6 +612,7 @@ margin-left:1.5rem;
   height: 100%;
   position: absolute;
   padding-right: 1.5vw;
+  padding-right: 0.5vw;
 }
 
 .modal-content > p {
